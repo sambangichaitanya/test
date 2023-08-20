@@ -1,1 +1,6 @@
  
+{{#chaitanya39}}
+Name: Chaitanya Sambangi
+Skills: HTML, CSS, JS, React.js
+Email: chaitanya031896@gmail.com
+{{/chaitanya39}}
